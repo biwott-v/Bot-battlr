@@ -1,0 +1,40 @@
+
+h1, h2 {
+    text-align: center;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    text-decoration: underline;
+    font-weight: 400;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 20px; 
+    justify-content: center; 
+    width: 100%; 
+    max-width: 1439px;
+}
+
+.box {
+    padding: 20px;
+    background-color: rgba(194, 197, 193, 0.6);
+    margin: 10px;
+    border-radius: 25px;
+    width: 250px; 
+    box-sizing: border-box;
+}
+
+.main {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    width: 100%;
+}
+
+img{
+    height: 205px;
+    width: 235px;
+}
