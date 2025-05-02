@@ -13,7 +13,7 @@ Welcome to **Bot Battlr** – a React-based app where you can collect bots, buil
 
 - React
 - JavaScript (ES6)
-- CSS (Flexbox)
+- CSS
 - Fetch API
 
 
